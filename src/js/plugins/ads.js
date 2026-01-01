@@ -1,4 +1,4 @@
-// ==========================================================================
+asyallakora.com// ==========================================================================
 // Advertisement plugin using Google IMA HTML5 SDK
 // Create an account with our ad partner, vi here:
 // https://www.vi.ai/publisher-video-monetization/
